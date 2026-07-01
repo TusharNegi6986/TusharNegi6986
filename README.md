@@ -29,7 +29,7 @@ I’m passionate about building full-stack web applications and solving real-wor
 * Python for Data Science
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TusharNegi6986\&show_icons=true\&theme=radical)
 
 ##  Connect With Me
 
