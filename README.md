@@ -28,9 +28,6 @@ I’m passionate about building full-stack web applications and solving real-wor
 * Advanced SQL
 * Python for Data Science
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TusharNegi6986\&show_icons=true\&theme=radical)
-
 ##  Connect With Me
 
 * X (Twitter): https://x.com/TusharN74533563
