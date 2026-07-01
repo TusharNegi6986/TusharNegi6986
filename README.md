@@ -1,4 +1,4 @@
-# Hi, I'm Tushar 👋
+# Hi, I'm Tushar 
 
  Computer Science Student
  MERN Stack Developer
